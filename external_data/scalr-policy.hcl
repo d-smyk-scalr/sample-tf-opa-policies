@@ -37,12 +37,12 @@ policy "random_decision_7" {
 
 policy "random_decision_8" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
 
 policy "random_decision_9" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
 
 policy "random_decision_10" {
